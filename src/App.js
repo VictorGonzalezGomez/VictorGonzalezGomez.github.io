@@ -14,6 +14,7 @@ function App() {
       justifyContent='center'
       alignItems='center'
       sx={{width: '100%', height: '100%'}}>
+
       <Box sx={{width: '100%'}}>
         <Accordion>
           <AccordionSummary
