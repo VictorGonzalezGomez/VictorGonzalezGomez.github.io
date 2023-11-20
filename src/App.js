@@ -40,7 +40,6 @@ function App() {
                         <TableCell align="right">Edad</TableCell>
                         <TableCell align="right">Profesión</TableCell>
                         <TableCell align="right">Cargo</TableCell>
-                        <TableCell align="right">Grupo familiar</TableCell>
                       </TableRow>
                     </TableHead>
                     <TableBody>
@@ -50,7 +49,6 @@ function App() {
                         <TableCell align="right">356</TableCell>
                         <TableCell align="right">Diseñador</TableCell>
                         <TableCell align="right">Gerente</TableCell>
-                        <TableCell align="right">No aplica</TableCell>
                       </TableRow>
                       <TableRow>
                         <TableCell align="right">Paco</TableCell>
@@ -58,14 +56,6 @@ function App() {
                         <TableCell align="right">356</TableCell>
                         <TableCell align="right">Diseñador</TableCell>
                         <TableCell align="right">Gerente</TableCell>
-                        <TableCell align="right">
-                          <ul>
-                          <li>Julio</li>
-                          <li>Carmen</li>
-                          <li>Ignacio</li>
-                          <li>Elena</li>
-                        </ul>
-                        </TableCell>
                       </TableRow>
                       <TableRow>
                         <TableCell align="right">Paco</TableCell>
@@ -73,7 +63,6 @@ function App() {
                         <TableCell align="right">356</TableCell>
                         <TableCell align="right">Diseñador</TableCell>
                         <TableCell align="right">Gerente</TableCell>
-                        <TableCell align="right">No aplica</TableCell>
                       </TableRow>
                     </TableBody>
                   </Table>
@@ -97,7 +86,6 @@ function App() {
                         <TableCell align="right">Edad</TableCell>
                         <TableCell align="right">Profesión</TableCell>
                         <TableCell align="right">Cargo</TableCell>
-                        <TableCell align="right">Grupo familiar</TableCell>
                       </TableRow>
                     </TableHead>
                     <TableBody>
@@ -107,7 +95,6 @@ function App() {
                         <TableCell align="right">356</TableCell>
                         <TableCell align="right">Diseñador</TableCell>
                         <TableCell align="right">Gerente</TableCell>
-                        <TableCell align="right">No aplica</TableCell>
                       </TableRow>
                       <TableRow>
                         <TableCell align="right">Paco</TableCell>
@@ -115,14 +102,6 @@ function App() {
                         <TableCell align="right">356</TableCell>
                         <TableCell align="right">Diseñador</TableCell>
                         <TableCell align="right">Gerente</TableCell>
-                        <TableCell align="right">
-                          <ul>
-                            <li>Julio</li>
-                            <li>Carmen</li>
-                            <li>Ignacio</li>
-                            <li>Elena</li>
-                          </ul>
-                        </TableCell>
                       </TableRow>
                       <TableRow>
                         <TableCell align="right">Paco</TableCell>
@@ -130,7 +109,6 @@ function App() {
                         <TableCell align="right">356</TableCell>
                         <TableCell align="right">Diseñador</TableCell>
                         <TableCell align="right">Gerente</TableCell>
-                        <TableCell align="right">No aplica</TableCell>
                       </TableRow>
                     </TableBody>
                   </Table>
@@ -164,7 +142,6 @@ function App() {
                         <TableCell align="right">Edad</TableCell>
                         <TableCell align="right">Profesión</TableCell>
                         <TableCell align="right">Cargo</TableCell>
-                        <TableCell align="right">Grupo familiar</TableCell>
                       </TableRow>
                     </TableHead>
                     <TableBody>
@@ -174,7 +151,6 @@ function App() {
                         <TableCell align="right">356</TableCell>
                         <TableCell align="right">Diseñador</TableCell>
                         <TableCell align="right">Gerente</TableCell>
-                        <TableCell align="right">No aplica</TableCell>
                       </TableRow>
                       <TableRow>
                         <TableCell align="right">Paco</TableCell>
@@ -182,14 +158,6 @@ function App() {
                         <TableCell align="right">356</TableCell>
                         <TableCell align="right">Diseñador</TableCell>
                         <TableCell align="right">Gerente</TableCell>
-                        <TableCell align="right">
-                          <ul>
-                            <li>Julio</li>
-                            <li>Carmen</li>
-                            <li>Ignacio</li>
-                            <li>Elena</li>
-                          </ul>
-                        </TableCell>
                       </TableRow>
                       <TableRow>
                         <TableCell align="right">Paco</TableCell>
@@ -197,7 +165,6 @@ function App() {
                         <TableCell align="right">356</TableCell>
                         <TableCell align="right">Diseñador</TableCell>
                         <TableCell align="right">Gerente</TableCell>
-                        <TableCell align="right">No aplica</TableCell>
                       </TableRow>
                     </TableBody>
                   </Table>
@@ -231,7 +198,6 @@ function App() {
                         <TableCell align="right">Edad</TableCell>
                         <TableCell align="right">Profesión</TableCell>
                         <TableCell align="right">Cargo</TableCell>
-                        <TableCell align="right">Grupo familiar</TableCell>
                       </TableRow>
                     </TableHead>
                     <TableBody>
@@ -241,7 +207,6 @@ function App() {
                         <TableCell align="right">356</TableCell>
                         <TableCell align="right">Diseñador</TableCell>
                         <TableCell align="right">Gerente</TableCell>
-                        <TableCell align="right">No aplica</TableCell>
                       </TableRow>
                       <TableRow>
                         <TableCell align="right">Paco</TableCell>
@@ -249,14 +214,6 @@ function App() {
                         <TableCell align="right">356</TableCell>
                         <TableCell align="right">Diseñador</TableCell>
                         <TableCell align="right">Gerente</TableCell>
-                        <TableCell align="right">
-                          <ul>
-                            <li>Julio</li>
-                            <li>Carmen</li>
-                            <li>Ignacio</li>
-                            <li>Elena</li>
-                          </ul>
-                        </TableCell>
                       </TableRow>
                       <TableRow>
                         <TableCell align="right">Paco</TableCell>
@@ -264,7 +221,6 @@ function App() {
                         <TableCell align="right">356</TableCell>
                         <TableCell align="right">Diseñador</TableCell>
                         <TableCell align="right">Gerente</TableCell>
-                        <TableCell align="right">No aplica</TableCell>
                       </TableRow>
                     </TableBody>
                   </Table>
@@ -289,7 +245,6 @@ function App() {
                         <TableCell align="right">Edad</TableCell>
                         <TableCell align="right">Profesión</TableCell>
                         <TableCell align="right">Cargo</TableCell>
-                        <TableCell align="right">Grupo familiar</TableCell>
                       </TableRow>
                     </TableHead>
                     <TableBody>
@@ -300,7 +255,6 @@ function App() {
                         <TableCell align="right">356</TableCell>
                         <TableCell align="right">Diseñador</TableCell>
                         <TableCell align="right">Gerente</TableCell>
-                        <TableCell align="right">No aplica</TableCell>
                       </TableRow>
                       <TableRow
                       >
@@ -309,14 +263,6 @@ function App() {
                         <TableCell align="right">356</TableCell>
                         <TableCell align="right">Diseñador</TableCell>
                         <TableCell align="right">Gerente</TableCell>
-                        <TableCell align="right">
-                          <ul>
-                            <li>Julio</li>
-                            <li>Carmen</li>
-                            <li>Ignacio</li>
-                            <li>Elena</li>
-                          </ul>
-                        </TableCell>
                       </TableRow>
                       <TableRow>
                         <TableCell align="right">Paco</TableCell>
@@ -324,7 +270,6 @@ function App() {
                         <TableCell align="right">356</TableCell>
                         <TableCell align="right">Diseñador</TableCell>
                         <TableCell align="right">Gerente</TableCell>
-                        <TableCell align="right">No aplica</TableCell>
                       </TableRow>
                     </TableBody>
                   </Table>
@@ -349,7 +294,6 @@ function App() {
                         <TableCell align="right">Edad</TableCell>
                         <TableCell align="right">Profesión</TableCell>
                         <TableCell align="right">Cargo</TableCell>
-                        <TableCell align="right">Grupo familiar</TableCell>
                       </TableRow>
                     </TableHead>
                     <TableBody>
@@ -359,7 +303,6 @@ function App() {
                         <TableCell align="right">356</TableCell>
                         <TableCell align="right">Diseñador</TableCell>
                         <TableCell align="right">Gerente</TableCell>
-                        <TableCell align="right">No aplica</TableCell>
                       </TableRow>
                       <TableRow
                       >
@@ -368,14 +311,6 @@ function App() {
                         <TableCell align="right">356</TableCell>
                         <TableCell align="right">Diseñador</TableCell>
                         <TableCell align="right">Gerente</TableCell>
-                        <TableCell align="right">
-                          <ul>
-                            <li>Julio</li>
-                            <li>Carmen</li>
-                            <li>Ignacio</li>
-                            <li>Elena</li>
-                          </ul>
-                        </TableCell>
                       </TableRow>
                       <TableRow
                       >
@@ -384,7 +319,6 @@ function App() {
                         <TableCell align="right">356</TableCell>
                         <TableCell align="right">Diseñador</TableCell>
                         <TableCell align="right">Gerente</TableCell>
-                        <TableCell align="right">No aplica</TableCell>
                       </TableRow>
                     </TableBody>
                   </Table>
