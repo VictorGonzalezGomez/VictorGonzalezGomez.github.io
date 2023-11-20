@@ -20,7 +20,7 @@ function App() {
             expandIcon={<ExpandMoreIcon/>}
             aria-controls="panel1a-content"
             id="panel1a-header">
-            <Typography>Compañia 1</Typography>
+            <Typography>Empresa 1</Typography>
           </AccordionSummary>
           <AccordionDetails>
             <Accordion>
@@ -144,7 +144,7 @@ function App() {
             expandIcon={<ExpandMoreIcon/>}
             aria-controls="panel2a-content"
             id="panel2a-header">
-            <Typography>Compañia 2</Typography>
+            <Typography>Empresa 2</Typography>
           </AccordionSummary>
           <AccordionDetails>
             <Accordion>
@@ -211,7 +211,7 @@ function App() {
             expandIcon={<ExpandMoreIcon/>}
             aria-controls="panel3a-content"
             id="panel3a-header">
-            <Typography>Compañia 3</Typography>
+            <Typography>Empresa 3</Typography>
           </AccordionSummary>
           <AccordionDetails>
             <Accordion>
@@ -318,8 +318,7 @@ function App() {
                           </ul>
                         </TableCell>
                       </TableRow>
-                      <TableRow
-                      >
+                      <TableRow>
                         <TableCell align="right">Paco</TableCell>
                         <TableCell align="right">23123113</TableCell>
                         <TableCell align="right">356</TableCell>
@@ -354,8 +353,7 @@ function App() {
                       </TableRow>
                     </TableHead>
                     <TableBody>
-                      <TableRow
-                      >
+                      <TableRow>
                         <TableCell align="right">Paco</TableCell>
                         <TableCell align="right">23123113</TableCell>
                         <TableCell align="right">356</TableCell>
