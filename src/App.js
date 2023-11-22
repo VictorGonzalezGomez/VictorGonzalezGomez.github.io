@@ -60,10 +60,10 @@ function App() {
                         <TableCell align="right">Gerente</TableCell>
                         <TableCell align="right">
                           <ul>
-                          <li>Julio</li>
-                          <li>Carmen</li>
-                          <li>Ignacio</li>
-                          <li>Elena</li>
+                          <li>Hijo</li>
+                          <li>Hijo</li>
+                          <li>Esposo</li>
+                          <li>Esposa</li>
                         </ul>
                         </TableCell>
                       </TableRow>
@@ -117,10 +117,9 @@ function App() {
                         <TableCell align="right">Gerente</TableCell>
                         <TableCell align="right">
                           <ul>
-                            <li>Julio</li>
-                            <li>Carmen</li>
-                            <li>Ignacio</li>
-                            <li>Elena</li>
+                            <li>Hijo</li>
+                            <li>Esposo</li>
+                            <li>Esposa</li>
                           </ul>
                         </TableCell>
                       </TableRow>
@@ -251,10 +250,8 @@ function App() {
                         <TableCell align="right">Gerente</TableCell>
                         <TableCell align="right">
                           <ul>
-                            <li>Julio</li>
-                            <li>Carmen</li>
-                            <li>Ignacio</li>
-                            <li>Elena</li>
+                            <li>Esposo</li>
+                            <li>Esposa</li>
                           </ul>
                         </TableCell>
                       </TableRow>
@@ -311,10 +308,8 @@ function App() {
                         <TableCell align="right">Gerente</TableCell>
                         <TableCell align="right">
                           <ul>
-                            <li>Julio</li>
-                            <li>Carmen</li>
-                            <li>Ignacio</li>
-                            <li>Elena</li>
+                            <li>Hija</li>
+                            <li>Hija</li>
                           </ul>
                         </TableCell>
                       </TableRow>
@@ -370,10 +365,7 @@ function App() {
                         <TableCell align="right">Gerente</TableCell>
                         <TableCell align="right">
                           <ul>
-                            <li>Julio</li>
-                            <li>Carmen</li>
-                            <li>Ignacio</li>
-                            <li>Elena</li>
+                            <li>Hijo</li>
                           </ul>
                         </TableCell>
                       </TableRow>
